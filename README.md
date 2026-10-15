@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/OnlyTime223/bravo">
-    <img src="[https://raw.githubusercontent.com/OnlyTime223/bravo/main/docs/banner.png](https://github.com/OnlyTime223/bravo/blob/main/docs/banner.png)" alt="Bravo Banner" width="100%" style="max-width: 800px; border-radius: 8px;">
+    <img src="[https://raw.githubusercontent.com/OnlyTime223/bravo/main/docs/banner.png]([https://github.com/OnlyTime223/bravo/blob/main/docs/banner.png](https://github.com/OnlyTime223/bravo/blob/main/docs/banner.png))" alt="Bravo Banner" width="100%" style="max-width: 800px; border-radius: 8px;">
   </a>
 </p>
 
