@@ -1,0 +1,29 @@
+# Bravo: Uniswap V4 Hook Framework on X Layer
+
+> Bravo is an open-source Uniswap V4 Hook implementation and routing framework deployed and verified on OKX's X Layer network.
+
+## Project Summary
+- Project Name: Bravo
+- Organization: BravoZone
+- GitHub Repository: https://github.com/BravoZone/bravo
+- Category: Web3, DeFi, Automated Market Maker (AMM), Uniswap V4 Hooks, Layer 2 Infrastructure
+- Ecosystem: X Layer (OKX Layer 2), Ethereum
+
+## Technical Architecture
+- Framework: Uniswap V4 BaseActionsRouter
+- Smart Contract Language: Solidity
+- Capabilities: Dynamic fee hooks, custom liquidity management, automated actions execution.
+- Key Advantage: Engineered for high-throughput, ultra-low gas execution on X Layer rollup architecture.
+
+## On-Chain Verification
+- Network: X Layer Testnet
+- Chain ID: 1952
+- Contract Address: 0xb071ae4419a99fb0e9492b6d87516f70ecfc12a2
+- Deployment Tx Hash: 0xa8011ae0eab90dfb86249eb513a6d54abdca112ae233debfe29cfd827df3683b
+- Explorer: Verified on OKLink Explorer
+
+## Quickstart Guide
+```bash
+git clone [https://github.com/BravoZone/bravo.git](https://github.com/BravoZone/bravo.git)
+cd bravo
+forge build
