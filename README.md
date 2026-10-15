@@ -1,3 +1,21 @@
+<p align="center">
+  <a href="https://github.com/OnlyTime223/bravo">
+    <img src="https://raw.githubusercontent.com/OnlyTime223/bravo/main/docs/banner.png" alt="Bravo Banner" width="100%" style="max-width: 800px; border-radius: 8px;">
+  </a>
+</p>
+
+<p align="center">
+  <strong>🚀 轻量、开箱即用的开发利器</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/OnlyTime223/bravo/stargazers"><img src="https://img.shields.io/github/stars/OnlyTime223/bravo?style=flat-square&color=blue" alt="Stars"></a>
+  <a href="https://github.com/OnlyTime223/bravo/network/members"><img src="https://img.shields.io/github/forks/OnlyTime223/bravo?style=flat-square&color=blue" alt="Forks"></a>
+  <a href="https://github.com/OnlyTime223/bravo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/OnlyTime223/bravo?style=flat-square&color=green" alt="License"></a>
+</p>
+
+---
+
 # Bravo: Uniswap V4 Hook on X Layer Testnet
 
 ## Project Overview
