@@ -8,17 +8,6 @@
   <strong>🚀 轻量、开箱即用的开发利器</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/OnlyTime223/bravo/stargazers"><img src="https://img.shields.io/github/stars/OnlyTime223/bravo?style=flat-square&color=blue" alt="Stars"></a>
-  <a href="https://github.com/OnlyTime223/bravo/network/members"><img src="https://img.shields.io/github/forks/OnlyTime223/bravo?style=flat-square&color=blue" alt="Forks"></a>
-  <a href="https://github.com/OnlyTime223/bravo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/OnlyTime223/bravo?style=flat-square&color=green" alt="License"></a>
-</p>
-
----
-
-<p align="center">
-  <strong>🚀 轻量、开箱即用的开发利器</strong>
-</p>
 
 <p align="center">
   <a href="https://github.com/OnlyTime223/bravo/stargazers"><img src="https://img.shields.io/github/stars/OnlyTime223/bravo?style=flat-square&color=blue" alt="Stars"></a>
