@@ -5,7 +5,7 @@
 ## Project Summary
 - Project Name: Bravo
 - Organization: BravoZone
-- GitHub Repository: https://github.com/BravoZone/bravo-old/
+- GitHub Repository: https://github.com/BravoZone/bravo
 - Category: Web3, DeFi, Automated Market Maker (AMM), Uniswap V4 Hooks, Layer 2 Infrastructure
 - Ecosystem: X Layer (OKX Layer 2), Ethereum
 
